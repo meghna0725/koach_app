@@ -8,5 +8,17 @@ git clone https://github.com/yourusername/user-profile-search-app.git
 ```
 
 ### 2. Navigate to directory
+```bash
 cd user-profile-app
+```
+
+### 3. Install dependencies 
+```bash
+npm install
+```
+
+### 4. Start development server 
+```bash
+npm start
+```
 
