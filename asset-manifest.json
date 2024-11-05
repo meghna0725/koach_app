@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/user-profile-search-app/static/css/main.f2c62a8a.css",
-    "main.js": "/user-profile-search-app/static/js/main.d37b6e27.js",
-    "static/js/453.005d48b7.chunk.js": "/user-profile-search-app/static/js/453.005d48b7.chunk.js",
-    "index.html": "/user-profile-search-app/index.html",
-    "main.f2c62a8a.css.map": "/user-profile-search-app/static/css/main.f2c62a8a.css.map",
-    "main.d37b6e27.js.map": "/user-profile-search-app/static/js/main.d37b6e27.js.map",
-    "453.005d48b7.chunk.js.map": "/user-profile-search-app/static/js/453.005d48b7.chunk.js.map"
+    "main.css": "/koach_app/static/css/main.f2c62a8a.css",
+    "main.js": "/koach_app/static/js/main.378e98f3.js",
+    "static/js/453.005d48b7.chunk.js": "/koach_app/static/js/453.005d48b7.chunk.js",
+    "index.html": "/koach_app/index.html",
+    "main.f2c62a8a.css.map": "/koach_app/static/css/main.f2c62a8a.css.map",
+    "main.378e98f3.js.map": "/koach_app/static/js/main.378e98f3.js.map",
+    "453.005d48b7.chunk.js.map": "/koach_app/static/js/453.005d48b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c62a8a.css",
-    "static/js/main.d37b6e27.js"
+    "static/js/main.378e98f3.js"
   ]
 }
