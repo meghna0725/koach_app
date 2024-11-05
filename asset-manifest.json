@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/koach_app/static/css/main.f2c62a8a.css",
-    "main.js": "/koach_app/static/js/main.378e98f3.js",
+    "main.js": "/koach_app/static/js/main.d9802ff5.js",
     "static/js/453.005d48b7.chunk.js": "/koach_app/static/js/453.005d48b7.chunk.js",
     "index.html": "/koach_app/index.html",
     "main.f2c62a8a.css.map": "/koach_app/static/css/main.f2c62a8a.css.map",
-    "main.378e98f3.js.map": "/koach_app/static/js/main.378e98f3.js.map",
+    "main.d9802ff5.js.map": "/koach_app/static/js/main.d9802ff5.js.map",
     "453.005d48b7.chunk.js.map": "/koach_app/static/js/453.005d48b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c62a8a.css",
-    "static/js/main.378e98f3.js"
+    "static/js/main.d9802ff5.js"
   ]
 }
